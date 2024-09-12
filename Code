@@ -1,0 +1,959 @@
+
+<!DOCTYPE html><html lang="en">
+											
+						
+											
+						
+											
+						
+											
+						
+											
+						
+
+<!-- Begin Head -->
+
+    <title id="evmtYDF0R718tAV8" class="" style="">Fitness Gym</title>
+    <meta charset="UTF-8" id="W7iRJe4eoLPLdSL9" class="" style="">
+    <meta name="description" content="Free Web tutorials" id="rEpSA1xVZEDsHJUn" class="" style="">
+    <meta name="keywords" content="HTML, CSS, JavaScript" id="PEjHn15mwV52R9Rg" class="" style="">
+    <meta name="author" content="John Doe" id="3xokdqhSKUZhsF1M" class="" style="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" id="pmrAAhPLTPnTmShl" class="" style="">
+    <!-- font-family  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" id="Rhj2qidw8jMJUaJt" class="" style="">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" id="xLHef6yLyZVDKVAq" class="" style="">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&amp;display=swap" rel="stylesheet" id="pzENDdXcvyTws0eC" class="" style="">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" id="zzb9RWB2FbqIDUc8" class="" style="">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" id="9hNC7JUuuINMia3P" class="" style="">
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet" id="UWE1i6mpSkHzFr4e" class="" style="">
+    <!-- custom css link -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" id="uw4X70xIZIzyADy1" class="" style="">
+    <link rel="stylesheet" href="assets/css/swiper.css" id="eqV2a7WejBFnDuWW" class="" style="">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css" id="2S6TiEivSK1Tz3TK" class="" style="">
+    <link rel="stylesheet" href="assets/css/style.css" id="bGLHhYomN3KKPnXe" class="" style="">
+    <link rel="icon" type="image/png" href="assets/images/fav.png" id="EVXJW0AST0v3ochV" class="" style="">
+
+
+<!-- header -->
+<div class="fg-header mt_bgtempconatainer pp-header-wrapper pp-header-fixed" id="9zG0uSX96cuZMuMR">
+    <div class="fg-toggle fg-header-overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6 col-sm-6 align-self-center">
+                <div class="fg-logo">
+                    <a href="javascript:void(0);">
+                        <img src="assets/images/logo.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                    </a>
+                </div>
+            </div>
+             <div class="col-lg-8 col-md-6 col-sm-6 align-self-center">
+                <div class="fg-header-menu">
+                    <div class="fg-toogle-toggle">
+                        <a href="javascript:void(0);" class="fg-toggle">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                    </div>
+                    <ul class="fg-menu-ul">
+                        <li>
+                            <a href="#home-section" class="editableElement as-CommonClass-navbar" top-h="80" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">home</a>
+                        </li>
+                        <li>
+                            <a href="#about-section" class="editableElement as-CommonClass-navbar" top-h="80" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">about us</a>
+                        </li>
+                        <li>
+                            <a href="#service-section" class="editableElement as-CommonClass-navbar" top-h="80" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">services</a>
+                        </li>
+                        <li>
+                            <a href="#gallery-section" class="editableElement as-CommonClass-navbar" top-h="80" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">image gallery</a>
+                        </li>
+                        <li>
+                            <a href="#testimonial-section" class="editableElement as-CommonClass-navbar" top-h="80" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">testimonial</a>
+                        </li>
+                        <li>
+                            <a href="#faq-section" class="editableElement as-CommonClass-navbar" top-h="80" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">FAQ</a>
+                        </li>
+                        <li>
+                            <a href="#contact-section" class="editableElement as-CommonClass-navbar" top-h="80" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">contact us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- banner -->
+<div class="fg-banner-wrapper mt_bgtempconatainer" id="home-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7 col-md-12 col-sm-12">
+                <div class="fg-banner-content">
+                   <h6 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"> is the Key to Success</h6>
+                    <h1 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Fitness is a
+                         <span class="fg-bh-color-green editableElement" data-kindoff="text" data-og-fg-color="rgb(10, 10, 10)" data-og-bg-color="rgb(243, 255, 41)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            Lifestyle</span> 
+                            <br> Not a destination</h1>
+                    <a href="javascript:void(0);" class="fg-all-btn editableElement" data-kindoff="text" data-og-fg-color="rgb(10, 10, 10)" data-og-bg-color="rgb(243, 255, 41)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        Get Started
+                        </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- about -->
+<div class="fg-about-wrapper mt_bgtempconatainer" id="about-section" style="">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-12 col-sm-12">
+                <div class="fg-about-content">
+                    <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">about us</h2>
+                    <h3 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Find Your Focus, Find Your Strength, Commit to Be Fit Every Day</h3>
+                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="uz5Acslf7OhAYKg0" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">At our core, we believe in empowering every individual to achieve their personal best. Whether you're taking your first step into fitness or striving to reach new heights, our expert trainers and supportive community are here to guide you. Your journey to a stronger, fitter life starts here. Let’s get moving together!</p>
+                    <ul class="fg-about-ul">
+                        <li class="mt_bgtempconatainer"><img src="assets/images/check.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')"> <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">Embrace the Grind</span></li>
+                        <li class="mt_bgtempconatainer"><img src="assets/images/check.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')"> <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Achieve the Impossible</span></li>
+                        <li class="mt_bgtempconatainer"><img src="assets/images/check.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')"> <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="aK4tyNQTtEnpWitB" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Dedication in Every Rep</span></li>
+                        <li class="mt_bgtempconatainer"><img src="assets/images/check.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')"> <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">No Pain, No Gain</span></li>
+                        <li class="mt_bgtempconatainer" id="gnF7lBCSQ629j20S"><img src="assets/images/check.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')"> <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);" id="6xEggNKNXLRNXwoh">Find Your Strength</span></li>
+                        <li class="mt_bgtempconatainer"><img src="assets/images/check.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"> <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);" id="vkkiiVlVv2usivdW">Where Fitness Meets Fun</span></li>
+                    </ul>
+                    <a href="javascript:void(0);" class="fg-all-btn editableElement" data-kindoff="text" data-og-fg-color="rgb(10, 10, 10)" data-og-bg-color="rgb(243, 255, 41)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(10, 10, 10); background-color: rgb(243, 255, 41);">
+                        Read more
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 align-self-center">
+                <div class="fg-about-img">
+                    <img src="assets/images/about.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(33, 37, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(33, 37, 41); background-color: rgba(0, 0, 0, 0);">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- services -->
+<div class="fg-service-wrapper mt_bgtempconatainer" id="service-section" style="">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="fg-all-heading">
+                    <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">our services</h2>
+                    <img src="assets/images/heading_line.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(74, 77, 93)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="AIzXdGEI7R2Tp1ys" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">Experience unparalleled fitness with our top-tier services, including personalized training, dynamic group classes, expert nutrition coaching, and access to state-of-the-art equipment. </p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="fg-service-box mt_bgtempconatainer">
+                   <div class="fg-service-box-inner">
+                    <img src="assets/images/service1.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(84, 87, 106)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(84, 87, 106); background-color: rgba(0, 0, 0, 0);">
+                        <h2><a href="javascript:void(0);" class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Group Fitness</a></h2>
+                        <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="HwPXpLryVaDM8BlD" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">Energize your routine with dynamic group classes designed to challenge all fitness levels</p>
+                        <a href="javascript:void(0);" class="mt_bgtempconatainer editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);">
+                            <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);">read more</span>
+                        </a>
+                   </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="fg-service-box mt_bgtempconatainer">
+                    <div class="fg-service-box-inner">
+                        <img src="assets/images/service2.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(84, 87, 106)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(84, 87, 106); background-color: rgba(0, 0, 0, 0);">
+                        <h2><a href="javascript:void(0);" class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Cardio Equipment</a></h2>
+                          <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);" id="Vb5bEc9vJdR47Q8b">Get your heart pumping with our cardio machines, from treadmills to ellipticals</p>
+                          <a href="javascript:void(0);" class="mt_bgtempconatainer editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);">read more</span></a>
+                   </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="fg-service-box mt_bgtempconatainer">
+                    <div class="fg-service-box-inner">
+                        <img src="assets/images/service3.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(84, 87, 106)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(84, 87, 106); background-color: rgba(0, 0, 0, 0);">
+                        <h2><a href="javascript:void(0);" class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Strength Training</a></h2>
+                          <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);" id="XiX93nGOkuZDSD4v">Build muscle and boost strength with extensive range of free weights &amp; resistance machines</p>
+                          <a href="javascript:void(0);" class="mt_bgtempconatainer editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);">read more</span></a>
+                   </div>
+                </div>
+            </div>
+            <div class="col-lg-2 fg-service-res-none"></div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="fg-service-box mt_bgtempconatainer">
+                    <div class="fg-service-box-inner">
+                        <img src="assets/images/service4.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(84, 87, 106)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(84, 87, 106); background-color: rgba(0, 0, 0, 0);">
+                        <h2><a href="javascript:void(0);" class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Physical Therapy</a></h2>
+                          <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="ne836PzcSI9yZ4m7" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">Recover and rehabilitate with personalized care from our certified physical therapists.</p>
+                          <a href="javascript:void(0);" class="mt_bgtempconatainer editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);" id="i6Peqfjq6AlvjW4G">read more</span></a>
+                   </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="fg-service-box mt_bgtempconatainer" id="tBx37aptTEWfjb9Y">
+                    <div class="fg-service-box-inner">
+                        <img src="assets/images/service5.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(84, 87, 106)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(84, 87, 106); background-color: rgba(0, 0, 0, 0);">
+                        <h2><a href="javascript:void()0;" class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Massage Therapy</a></h2>
+                          <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);" id="4Q68PHrAxeM72zpM">Relax and rejuvenate with our professional massage therapy services, to relieve stress.</p>
+                          <a href="javascript:void(0);" class="mt_bgtempconatainer editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);">read more</span></a>
+                   </div>
+                </div>
+            </div>
+            <div class="col-lg-2 fg-service-res-none"></div>
+            <div class="fg-service-btn">
+                <a href="javascript:void(0);" class="fg-all-btn editableElement" data-kindoff="text" data-og-fg-color="rgb(10, 10, 10)" data-og-bg-color="rgb(243, 255, 41)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(10, 10, 10); background-color: rgb(243, 255, 41);">load more</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- image gallery -->
+<div class="fg-image-gallery-wrapper mt_bgtempconatainer" id="gallery-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="fg-all-heading">
+                    <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">our gallery</h2>
+                    <img src="assets/images/heading_line.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(74, 77, 93)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="e7V3tBz0Utvqp5Fo" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">Step inside and explore the vibrant energy of our Fitness Gym. See the passion, feel the dedication, and imagine yourself as part of our dynamic community. <br>Get inspired and get ready to join us!</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="fg-gallery-grid" style="position: relative; height: 300px;">
+                    <div class="fg-grid-item " style="position: absolute; left: 0px; top: 0px;">
+                        <a href="javascript:void(0);">
+                            <div class="fg-grid-img">
+                                <img src="assets/images/g1.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            </div>
+                            <div class="fg-grid-icon mt_bgtempconatainer">
+                               <img src="assets/images/plus.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="fg-gallery-grid" style="position: relative; height: 300px;">
+                    <div class="fg-grid-item " style="position: absolute; left: 0px; top: 0px;">
+                        <a href="javascript:void(0);">
+                            <div class="fg-grid-img">
+                                <img src="assets/images/g2.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            </div>
+                            <div class="fg-grid-icon mt_bgtempconatainer">
+                               <img src="assets/images/plus.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="fg-gallery-grid" style="position: relative; height: 300px;">
+                    <div class="fg-grid-item " style="position: absolute; left: 0px; top: 0px;">
+                        <a href="javascript:void(0);">
+                            <div class="fg-grid-img">
+                                <img src="assets/images/g3.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                            </div>
+                            <div class="fg-grid-icon mt_bgtempconatainer">
+                               <img src="assets/images/plus.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="fg-gallery-grid" style="position: relative; height: 300px;">
+                    <div class="fg-grid-item " style="position: absolute; left: 0px; top: 0px;">
+                        <a href="javascript:void(0);">
+                            <div class="fg-grid-img">
+                                <img src="assets/images/g4.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                            </div>
+                            <div class="fg-grid-icon mt_bgtempconatainer">
+                               <img src="assets/images/plus.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="fg-gallery-grid" style="position: relative; height: 300px;">
+                    <div class="fg-grid-item " style="position: absolute; left: 0px; top: 0px;">
+                        <a href="javascript:void(0);">
+                            <div class="fg-grid-img">
+                                <img src="assets/images/g5.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            </div>
+                            <div class="fg-grid-icon mt_bgtempconatainer">
+                               <img src="assets/images/plus.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="fg-gallery-grid" style="position: relative; height: 300px;">
+                    <div class="fg-grid-item " style="position: absolute; left: 0px; top: 0px;">
+                        <a href="javascript:void(0);">
+                            <div class="fg-grid-img">
+                                <img src="assets/images/g6.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                            </div>
+                            <div class="fg-grid-icon mt_bgtempconatainer">
+                               <img src="assets/images/plus.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="fg-gallery-grid" style="position: relative; height: 300px;">
+                    <div class="fg-grid-item " style="position: absolute; left: 0px; top: 0px;">
+                        <a href="javascript:void(0);">
+                            <div class="fg-grid-img">
+                                <img src="assets/images/g7.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                            </div>
+                            <div class="fg-grid-icon mt_bgtempconatainer">
+                               <img src="assets/images/plus.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="fg-gallery-grid" style="position: relative; height: 300px;">
+                    <div class="fg-grid-item " style="position: absolute; left: 0px; top: 0px;">
+                        <a href="javascript:void(0);">
+                            <div class="fg-grid-img">
+                                <img src="assets/images/g8.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                            </div>
+                            <div class="fg-grid-icon mt_bgtempconatainer">
+                               <img src="assets/images/plus.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="fg-image-gallery-wrapper mt_bgtempconatainer pb-0" id="KRH3SUTliAmNvKW5" style="background-image: url(&quot;https://a2itpro.in/template_assets/overlay/0.png&quot;); background-color: rgb(230, 81, 0);">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="fg-all-heading pb-0">
+                    <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="font-size: 30px; color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);" id="dyHEPw9XbBsumgy2">Jatin Garg | B.TECH-CSE Department <br>Roll Number - 21103066<br>Thanks To <br>Dr. B.R. Ambedkar National Institute Of Technology, Jalandhar</h2>
+                    <img src="assets/images/heading_line.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(33, 37, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(33, 37, 41); background-color: rgba(0, 0, 0, 0);">
+                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="e7V3tBz0Utvqp5Fo" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);"></p>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-2 col-sm-12">
+                <div class="fg-gallery-grid" style="position: relative; height: 0px;">
+                    <div class="fg-grid-item " style="position: absolute; left: 0px; top: 0px;">
+                        <a href="javascript:void(0);">
+                            <div class="fg-grid-img">
+                                <img src="assets/images/g1.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="8d4W7E1mZ4jByt82" style="color: rgb(13, 110, 253);background-color: rgba(0, 0, 0, 0);display: none;">
+                            </div>
+                            <div class="fg-grid-icon mt_bgtempconatainer" style="
+    display: none;
+">
+                               <img src="assets/images/plus.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-2 col-sm-12">
+                <div class="fg-gallery-grid" style="position: relative; height: 0px;">
+                    <div class="fg-grid-item " style="position: absolute; left: 0px; top: 0px;">
+                        <a href="javascript:void(0);">
+                            <div class="fg-grid-img" style="
+    display: none;
+">
+                                <img src="assets/images/g2.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="NAExFBgnIdeyqNbm" style="display: none; color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                            </div>
+                            <div class="fg-grid-icon mt_bgtempconatainer" id="hfwv135n2oUb4mPv" style="
+    display: none;
+">
+                               <img src="assets/images/plus.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="45sXzC19aniBDTud" style="color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 ms-5 ps-4 mt-0 pt-0 mb-0">
+                <div class="fg-gallery-grid" style="position: relative;height: 200px;">
+                    <div class="fg-grid-item " style="position: absolute; left: 0px; top: 0px;">
+                        <a href="javascript:void(0);">
+                            <div class="fg-grid-img">
+                                <img src="assets/images/404810e793_64.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="object-fit: contain; min-height: 200px; height: 200px; color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);" id="F6WOaReLwE1CFCQh">
+                            </div>
+                            <div class="fg-grid-icon mt_bgtempconatainer" id="owN5lz6DTJeRd3QQ" style="
+    display: none;
+">
+                               <img src="assets/images/plus.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="fg-gallery-grid" style="position: relative; height: 0px;">
+                    <div class="fg-grid-item " style="position: absolute; left: 0px; top: 0px;">
+                        <a href="javascript:void(0);">
+                            <div class="fg-grid-img">
+                                <img src="assets/images/g4.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="display: none; color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);" id="1nwDOKLB2vfe92xA">
+                            </div>
+                            <div class="fg-grid-icon mt_bgtempconatainer" style="
+    display: none;
+">
+                               <img src="assets/images/plus.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            
+        </div>
+    </div>
+</div>
+<!-- testimonial -->
+<div class="fg-testimonial-wrapper mt_bgtempconatainer" id="testimonial-section" style="">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="fg-all-heading">
+                    <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);" id="nUf4tamXGaXifLkQ">Our Testimonial</h2>
+                    <img src="assets/images/heading_line.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(33, 37, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(33, 37, 41); background-color: rgba(0, 0, 0, 0);">
+                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);" id="ViW6szk8WDQLFAqF">Hear from our members about their transformative fitness journeys. Real stories, real results—get inspired to start your own success story with us!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="fg-testimonial-inner">
+        <div class="fg-testimonial-arrow">
+            <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-ef96e9561fca1077b" aria-disabled="false"><img src="assets/images/right-arrow.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(0, 122, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="OPMB5Ze2TsCFO1rc" style="color: rgb(0, 122, 255); background-color: rgba(0, 0, 0, 0);"></div>
+            <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-ef96e9561fca1077b" aria-disabled="true"><img src="assets/images/left-arrow.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(0, 122, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="zeecVxUHdjIZBmdW" style="color: rgb(0, 122, 255); background-color: rgba(0, 0, 0, 0);"></div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="fg-testimonial-slider">
+                        <div class="swiper-container mySwiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+                            <div class="swiper-wrapper" id="swiper-wrapper-ef96e9561fca1077b" aria-live="polite" style="transition-duration: 0ms; transform: translate3d(-2210px, 0px, 0px); transition-delay: 0ms;">
+                              <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 8" style="width: 412px; margin-right: 30px;">
+                                <div class="fg-testimonial-box mt_bgtempconatainer">
+                                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="UHhnILaD1CjLdDqq" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">As a competitive athlete, I need a gym that offers top-quality equipment and a motivating environment. This gym has exceeded my expectations and helped me achieve peak performance.</p>
+                                   <div class="fg-testimonial-img-box">
+                                        <img src="assets/images/testimonial1.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(74, 77, 93)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                                        <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="VOyq2SFteVUUmCtF" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);">Thomas David</h2>
+                                        <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="h4m3wuaCaqWenVdF" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">Competitive Athlete</p>
+                                   </div>
+                                </div>
+                              </div>
+                              <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 8" style="width: 412px; margin-right: 30px;">
+                                <div class="fg-testimonial-box mt_bgtempconatainer">
+                                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);" id="Lb0znTt9PSqGmBEH">I’ve lost 50 pounds since joining this gym. The trainers provided personalized guidance and the community kept me motivated every step of the way. It's more than just a gym; it's a family.</p>
+                                   <div class="fg-testimonial-img-box">
+                                        <img src="assets/images/testimonial2.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(33, 37, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(33, 37, 41); background-color: rgba(0, 0, 0, 0);">
+                                        <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);" id="Gg9wSc9P3kMEbtnL">Carlos R.</h2>
+                                        <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="732OOzgXZfXeoe5E" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">Weight Loss Journey</p>
+                                   </div>
+                                </div>
+                              </div>
+                              <div class="swiper-slide" role="group" aria-label="3 / 8" style="width: 412px; margin-right: 30px;">
+                                <div class="fg-testimonial-box mt_bgtempconatainer">
+                                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);" id="r8ZTo4gkahmq9AXW">I was new to working out and felt intimidated at first, but the friendly staff and welcoming members made me feel right at home. Now, fitness is a regular and enjoyable part of my life.</p>
+                                   <div class="fg-testimonial-img-box">
+                                        <img src="assets/images/testimonial3.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(74, 77, 93)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                                        <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);" id="w2LPn0pPi1Mze20I">David T.</h2>
+                                        <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);" id="zV23pqLIlHUkBWCa">Fitness Enthusiast</p>
+                                   </div>
+                                </div>
+                              </div>
+                              <div class="swiper-slide" role="group" aria-label="4 / 8" style="width: 412px; margin-right: 30px;">
+                                <div class="fg-testimonial-box mt_bgtempconatainer">
+                                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="qubh8NNW5LwM1OF8" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">Joining this gym transformed my fitness journey. The support and knowledge I gained here inspired me to open my own fitness studio. I wouldn't be where I am today without this amazing community.</p>
+                                   <div class="fg-testimonial-img-box">
+                                        <img src="assets/images/testimonial4.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(33, 37, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(33, 37, 41); background-color: rgba(0, 0, 0, 0);">
+                                        <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="PZ3IIBnYayyPX4ap" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);">Emily S. </h2>
+                                        <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="r1kUlsNfCCNIWraW" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">Fitness Entrepreneur</p>
+                                   </div>
+                                </div>
+                              </div>
+                              <div class="swiper-slide" role="group" aria-label="5 / 8" style="width: 412px; margin-right: 30px;">
+                                <div class="fg-testimonial-box mt_bgtempconatainer">
+                                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="grgJX0mSWemrslXU" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">As a fitness trainer, I've worked at several gyms, but none compare to the energy and dedication I found here. The equipment is top-notch, and the staff truly cares about everyone's success.</p>
+                                   <div class="fg-testimonial-img-box">
+                                        <img src="assets/images/testimonial1.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(33, 37, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(33, 37, 41); background-color: rgba(0, 0, 0, 0);">
+                                        <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="cjXjihjyoWGE6b6M" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);">Jason M.</h2>
+                                        <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);" id="bkEjodiZAlWAWapd">Personal Trainer</p>
+                                   </div>
+                                </div>
+                              </div>
+                              <div class="swiper-slide" role="group" aria-label="6 / 8" style="width: 412px; margin-right: 30px;">
+                                <div class="fg-testimonial-box mt_bgtempconatainer">
+                                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="V6dj64mrgHtaztlF" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">After a major injury, I needed a gym that could support my recovery. The knowledgeable staff and excellent facilities helped me regain my strength and confidence.</p>
+                                   <div class="fg-testimonial-img-box">
+                                        <img src="assets/images/testimonial2.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(33, 37, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(33, 37, 41); background-color: rgba(0, 0, 0, 0);">
+                                        <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="6M2jHoNxkUTcsTqw" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);">Marcus W.</h2>
+                                        <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="s98ptlxt8ZgCdcr8" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">Rehabilitation Success</p>
+                                   </div>
+                                </div>
+                              </div>
+                              <div class="swiper-slide" role="group" aria-label="7 / 8" style="width: 412px; margin-right: 30px;">
+                                <div class="fg-testimonial-box mt_bgtempconatainer">
+                                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="8QXCAbn8hRnApfwO" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">As a senior, I was looking for a gym that catered to all ages and fitness levels. The encouraging environment here has helped me stay active and healthy. I love being part of this community.</p>
+                                   <div class="fg-testimonial-img-box">
+                                        <img src="assets/images/testimonial3.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(33, 37, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(33, 37, 41); background-color: rgba(0, 0, 0, 0);">
+                                        <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);" id="lZuzqF58FnJ7gboO">James P.</h2>
+                                        <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="KZFUeR8lrS4nNSn2" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">Senior Member</p>
+                                   </div>
+                                </div>
+                              </div>
+                              <div class="swiper-slide" role="group" aria-label="8 / 8" style="width: 412px; margin-right: 30px;">
+                                <div class="fg-testimonial-box mt_bgtempconatainer" id="Mbm3W1RobIlkoJ5o">
+                                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="AejkBmDtXlMmgAoy" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">This gym has completely elevated my fitness routine. The diverse range of classes and the professional trainers have given me the tools to inspire my followers and grow my fitness brand.</p>
+                                   <div class="fg-testimonial-img-box">
+                                        <img src="assets/images/testimonial4.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(74, 77, 93)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                                        <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);" id="BX8erwdDjKURqW3w">Olivia H.</h2>
+                                        <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);" id="yQKj1BaxE2zYskLW">Fitness Influencer</p>
+                                   </div>
+                                </div>
+                              </div>
+                            </div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- faq -->
+<div class="fg-faq-wrapper mt_bgtempconatainer" id="faq-section" style="">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="fg-all-heading">
+                    <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">frequently asked question</h2>
+                    <img src="assets/images/heading_line.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(33, 37, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(33, 37, 41); background-color: rgba(0, 0, 0, 0);">
+                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);" id="jzCZQG6vnUJSU7eV">Got questions about fitness, diet, or workout tips? You've come to the right place! Check out our FAQ section where we answer all your queries. Don't see your question? Feel free to ask us anything!</p>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12">
+                <div class="fg-faq-left">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item mt_bgtempconatainer">
+                          <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button mt_bgtempconatainer" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" id="O92wcNqvQxVhTXGL">
+                                <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);">Are there fitness assessments available?</span>
+                            </button>
+                          </h2>
+                          <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample" style="">
+                            <div class="accordion-body">
+                                <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="vSWo49RFTYBO0U1h" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">Yes, we offer comprehensive fitness assessments to help you understand your current fitness level and set achievable goals. Our expert trainers will evaluate your strength, flexibility, endurance, and body composition to create a personalized workout plan tailored to your needs.</p>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="accordion-item mt_bgtempconatainer">
+                          <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button mt_bgtempconatainer collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" id="faSmdonRaxa70g5B">
+                                <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);" id="qrUzHy4yz9u5CEz8">Is there a childcare facility or daycare service?</span>
+                            </button>
+                          </h2>
+                          <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample" style="">
+                            <div class="accordion-body">
+                                <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);" id="V1KXWZu46e6iAHmR">Yes, we understand the importance of making fitness accessible for everyone. While we don't currently offer a childcare facility onsite, we do encourage parents to inquire about our family-friendly workout options and recommendations for local childcare services. </p>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="accordion-item mt_bgtempconatainer">
+                          <h2 class="accordion-header" id="headingThree">
+                            <button class="accordion-button mt_bgtempconatainer collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" id="ul9jnwPTtDTGUdiX">
+                                <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="VDZyAN3GRSGA5s7Y" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);">Do you offer nutrition and diet advice?</span>
+                            </button>
+                          </h2>
+                          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample" style="">
+                            <div class="accordion-body">
+                                <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);" id="yTZLsVShHS9eXv8d">Yes, we do! Our experienced trainers provide personalized nutrition and diet advice tailored to your fitness goals. From meal planning to dietary supplements, we're here to support your overall wellness journey. Reach out to our team for expert guidance on achieving a balanced and healthy lifestyle.</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12">
+                <div class="fg-faq-left">
+                    <div class="accordion" id="accordionExample1">
+                        <div class="accordion-item mt_bgtempconatainer">
+                          <h2 class="accordion-header" id="headingFour">
+                            <button class="accordion-button mt_bgtempconatainer" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                                <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);" id="8668FjT9Q69cLRrV">Do you have personal trainers available?</span>
+                            </button>
+                          </h2>
+                          <div id="collapseFour" class="accordion-collapse collapse show" aria-labelledby="headingFour" data-bs-parent="#accordionExample1" style="">
+                            <div class="accordion-body">
+                                <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);" id="7Bap0hKMyD1i94BI">Yes! Our experienced personal trainers are here to help you achieve your fitness goals with personalized workouts and expert guidance. Whether you're a beginner or a pro, we've got you covered. Let's start your journey to a healthier you together!</p>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="accordion-item mt_bgtempconatainer">
+                          <h2 class="accordion-header" id="headingFive">
+                            <button class="accordion-button mt_bgtempconatainer collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                               <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="oLxRkhtFkoZ8Cu2p" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);">What equipment do you have available for use?</span>
+                            </button>
+                          </h2>
+                          <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample1" style="">
+                            <div class="accordion-body">
+                                <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="hQ040C5oGL9xWmUu" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">We offer a wide range of equipment to cater to all your fitness needs. From cardio machines like treadmills and ellipticals to strength training equipment including free weights, machines, and resistance bands, everything require to achieve  fitness goals. </p>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="accordion-item mt_bgtempconatainer">
+                          <h2 class="accordion-header" id="headingSix">
+                            <button class="accordion-button mt_bgtempconatainer collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix" id="y4pa7o3jTDkS62TJ">
+                               <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(243, 255, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(243, 255, 41); background-color: rgba(0, 0, 0, 0);" id="ayy54BRTv1JgJQfI">How do I cancel my membership if needed?</span>
+                            </button>
+                          </h2>
+                          <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample1" style="">
+                            <div class="accordion-body">
+                              <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);" id="IogVMe4gM2skphso">Cancelling your membership is simple and hassle-free. Just reach out to our front desk or send us an email with your request, and we'll take care of the rest. No questions asked. Your satisfaction is our priority, and we're here to support you every step of the way. Remember, you can rejoin us anytime.</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- footer slider -->
+<div class="fg-footer-slider-wrapper mt_bgtempconatainer" id="s3PThpSfgHSm1xRo">
+    <div class="fg-footer-slider-flex">
+        <div class="fgfooter-slider-box">
+            <img src="assets/images/f1.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(156, 158, 200)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+            <div class="fg-footer-slider-overlay">
+                <ul class="fg-footer-slider-icons">
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/instagram.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/linkedin.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/pinterest.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/twitter.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="fgfooter-slider-box">
+            <img src="assets/images/f3.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(156, 158, 200)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+            <div class="fg-footer-slider-overlay">
+                <ul class="fg-footer-slider-icons">
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/instagram.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/linkedin.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/pinterest.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/twitter.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="fgfooter-slider-box">
+            <img src="assets/images/f2.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(156, 158, 200)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+            <div class="fg-footer-slider-overlay">
+                <ul class="fg-footer-slider-icons">
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/instagram.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/linkedin.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/pinterest.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/twitter.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="fgfooter-slider-box">
+            <img src="assets/images/f4.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(67, 70, 84)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(67, 70, 84); background-color: rgba(0, 0, 0, 0);">
+            <div class="fg-footer-slider-overlay">
+                <ul class="fg-footer-slider-icons">
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/instagram.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/linkedin.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/pinterest.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/twitter.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="fgfooter-slider-box">
+            <img src="assets/images/f6.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(67, 70, 84)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(67, 70, 84); background-color: rgba(0, 0, 0, 0);">
+            <div class="fg-footer-slider-overlay">
+                <ul class="fg-footer-slider-icons">
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/instagram.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                            <img src="assets/images/linkedin.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/pinterest.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/twitter.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="fgfooter-slider-box">
+            <img src="assets/images/f5.jpg" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(67, 70, 84)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(67, 70, 84); background-color: rgba(0, 0, 0, 0);">
+            <div class="fg-footer-slider-overlay">
+                <ul class="fg-footer-slider-icons">
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/instagram.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/linkedin.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/pinterest.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                    <li class="mt_bgtempconatainer">
+                        <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <img src="assets/images/twitter.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- contact -->
+<div class="fg-contact-wrapper mt_bgtempconatainer" id="contact-section" style="">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="ct-newsletter mt_bgtempconatainer">
+                    <div class="row">
+                        <div class="col-lg-6 align-self-center">
+                            <div class="as-newsletter-inner">
+                                <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Newsletter</h2>
+                                <p class="editableElement" data-kindoff="text" data-og-fg-color="rgba(255, 255, 255, 0.54)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgba(255, 255, 255, 0.54); background-color: rgba(0, 0, 0, 0);">Subscribe here for more updates</p>
+                                
+                            </div>
+                        </div>
+                        <div class="col-lg-6 align-self-center">
+                            <div class="pp-contact-form-box as-newsletterFormCustom">
+                                <div class="pp-form-fields">
+                                  <form>
+                                    <div class="mt_popup_form editableElement" data-kindoff="form" data-og-fg-color="rgb(33, 37, 41)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(33, 37, 41); background-color: rgba(0, 0, 0, 0);">
+                                      <div class="mt_popup_form_container">
+                                        <div class="mt_form_input" id="pp_email">
+                                          <input type="email" name="pp_email" placeholder="Enter Email Here..." class="theme_input data-default">
+                                        </div>
+                                      </div>
+                                      <button type="submit" class="pp-btn mtdefaultformbtn mt_bgtempconatainer editableElement" data-kindoff="text" data-og-fg-color="rgb(0, 0, 0)" data-og-bg-color="rgb(243, 255, 41)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(0, 0, 0); background-color: rgb(243, 255, 41);">
+                                        sign up
+                                       </button>
+                                    </div>
+                                  </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="fg-footer-sec1">
+                    <a href="#home-section">
+                        <img src="assets/images/logo.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                    </a>
+                    <p class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="UFUveT5WbML8wywM" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Follow us on social media for the latest updates, fitness tips, and inspiration. Join our community and share your journey with us!</p>
+                    <ul class="fg-footer-icons">
+                        <li class="mt_bgtempconatainer">
+                            <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                                <img src="assets/images/instagram.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            </a>
+                        </li>
+                        <li class="mt_bgtempconatainer">
+                            <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                                <img src="assets/images/linkedin.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            </a>
+                        </li>
+                        <li class="mt_bgtempconatainer">
+                            <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                                <img src="assets/images/pinterest.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(13, 110, 253); background-color: rgba(0, 0, 0, 0);">
+                            </a>
+                        </li>
+                        <li class="mt_bgtempconatainer">
+                            <a href="javascript:void(0);" class="editableElement socialIcon" data-kindoff="text" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                                <img src="assets/images/twitter.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(13, 110, 253)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="fg-footer-links fg-useful-link">
+                    <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">useful links</h2>
+                    <ul class="fg-link-ul">
+                        <li>
+                            <a href="#home-section" class="editableElement as-CommonClass-navbar" top-h="80" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"> <img src="assets/images/dot.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">home</span></a>
+                        </li>
+                        <li>
+                            <a href="#about-section" class="editableElement as-CommonClass-navbar" top-h="80" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><img src="assets/images/dot.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);" id="dpgy0cUleyp2EF33">about us</span></a>
+                        </li>
+                        <li>
+                            <a href="#service-section" class="editableElement as-CommonClass-navbar" top-h="80" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><img src="assets/images/dot.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">services</span></a>
+                        </li>
+                        <li>
+                            <a href="#gallery-section" class="editableElement as-CommonClass-navbar" top-h="80" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><img src="assets/images/dot.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">image gallery</span></a>
+                        </li>
+                        <li>
+                            <a href="#testimonial-section" class="editableElement as-CommonClass-navbar" top-h="80" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><img src="assets/images/dot.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">testimonial</span></a>
+                        </li>
+                        <li>
+                            <a href="#faq-section" class="editableElement as-CommonClass-navbar" top-h="80" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><img src="assets/images/dot.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">FAQ</span></a>
+                        </li>
+                        <li>
+                            <a href="#contact-section" class="editableElement as-CommonClass-navbar" top-h="80" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><img src="assets/images/dot.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">contact us</span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="fg-footer-links">
+                    <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">fitness classes</h2>
+                    <ul class="fg-link-ul">
+                        <li>
+                            <a href="javascript:void(0);" class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"> <img src="assets/images/dot.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Yoga Flow</span></a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);" class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><img src="assets/images/dot.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Spin Revolution</span></a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);" class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><img src="assets/images/dot.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Zumba Groove</span></a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);" class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><img src="assets/images/dot.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);" id="sF1uryppulonW523">Dance Fitness Party</span></a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);" class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><img src="assets/images/dot.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Strength &amp; Flex</span></a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);" class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><img src="assets/images/dot.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Functional Fitness</span></a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);" class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><img src="assets/images/dot.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);"><span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">Senior Wellness</span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="fg-footer-links">
+                    <h2 class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Oswald, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">get in touch</h2>
+                    <ul class="fg-footer-info">
+                        <li>
+                            <img src="assets/images/call.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="KKLyuT9uVylpdsZt" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">+91-00000-00000</span> <br>
+                            <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);" id="Qz3EEKDw5scEfvUi">+91-00000-00000</span>
+                        </li>
+                        <li>
+                            <img src="assets/images/gmail.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">
+                            <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">example@gmail.com</span><br>
+                            <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">info@gmail.com</span>
+                        </li>
+                        <li>
+                            <img src="assets/images/map.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+                            <span class="editableElement" data-kindoff="text" data-og-fg-color="rgb(255, 255, 255)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')" id="zMrP5vZ37mX3uiRJ" style="color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);">No. 00, XXX Building, Street Name, India</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="fg-top_icon" id="7wgnNS2jaOme25Fx">
+    <a id="button" class="mt_bgtempconatainer show">
+        <img src="assets/images/goto-top.png" alt="" class="editableElement" data-kindoff="image" data-og-fg-color="rgb(134, 137, 171)" data-og-bg-color="rgba(0, 0, 0, 0)" data-df-font="Barlow, sans-serif" onmouseover="this.style.color=this.getAttribute('data-hfg-color'); this.style.backgroundColor =this.getAttribute('data-hbg-color');" onmouseout="this.style.color=this.getAttribute('data-og-fg-color'); this.style.backgroundColor=this.getAttribute('data-og-bg-color')">
+    </a>
+</div>
+    <script src="assets/js/jquery.js" id="YTLF9Y42iJF8Q0Lj" class="" style=""></script>
+    <script src="assets/js/bootstrap.bundle.min.js" id="zfoafIzNqX9fcqMC" class="" style=""></script>
+    <script src="assets/js/swiper.js" id="lkgblD6x1owgjNXb" class="" style=""></script>
+    <script src="assets/js/jquery.magnific-popup.min.js" id="nr8PcKIMwmx8N0sc" class="" style=""></script>
+    <script src="assets/js/isotope.pkgd.min.js" id="tILjxdKN55XRZrX7" class="" style=""></script>
+    <script src="assets/js/custom.js" id="9SByDm64orXcrC8a" class="" style=""></script>
+
+	
+    
+						
+    
+						
+    
+						
+    
+						
+    
+					</html>
